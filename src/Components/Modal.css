@@ -3,9 +3,8 @@
 }
 
 .modal {
-  background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 200vh;
   position: absolute;
   top: 0;
   left: 0;
@@ -19,6 +18,8 @@
 }
 
 .container {
+  position: absolute;
+  bottom: 0;
   background-color: rgba(7, 7, 7, 0.8);
   color: rgb(7, 7, 7);
   width: auto;
