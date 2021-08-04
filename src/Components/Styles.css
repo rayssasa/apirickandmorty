@@ -1,0 +1,42 @@
+.characterpic {
+  width: 150px;
+  justify-content: center;
+  height: 150px;
+  background: #1B1B1B;
+  border: 2px solid #606060;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin-bottom: 1px;
+}
+.characterpic:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+}
+.character {
+  justify-content:center;
+  display: inline-block;
+  margin-top: 1px;
+  margin-bottom:5px;
+  padding-left: 100px;
+  width: 140px;
+}
+h1 {
+  display: table-cell;
+  font-family: 'Nunito', sans-serif;
+  color:rgb(247, 238, 238);
+  font-style: normal;
+  font-size: 16px;
+}
+h2 {
+  margin-top:0.5px;
+  margin-bottom: 0.5px;
+  font-family: 'Nunito', sans-serif;
+  color:rgb(247, 238, 238);
+  font-style: normal;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+
+}

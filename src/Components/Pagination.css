@@ -1,0 +1,14 @@
+.paginationButton {
+  position: relative;
+  left: 50%;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  background:transparent;
+  color: aliceblue;
+  font-size: 18px;
+
+}
+.paginationButton:hover {
+  cursor: pointer;
+}
